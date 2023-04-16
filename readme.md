@@ -1,7 +1,7 @@
 # CupidCues-Support
 
 <p align="center">
-  <img src="cupidcues-logos/cupid.svg" alt="CupidCues icon" width="350px" height="350px"/>
+  <img src="cupid-logos/cupid.svg" alt="CupidCues icon" width="300px" height="300px"/>
 </p>
 
 support for CupidCues, give feedback, feature request here
