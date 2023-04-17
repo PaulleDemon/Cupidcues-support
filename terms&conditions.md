@@ -138,7 +138,7 @@ We reserve the right to refuse any order placed through the Services. We may, in
 
 ### 7. RETURN POLICY
 
-All sales are final and no refund will be issued, unless the vendor decides to cancel the order. You as a user will not be able to cancel the order once placed. The orders are only canellable by the vendors. If the vendor decides to cancel the order, then a full refund of the item will be initiated (Application fee are not refundable). Your refund will be deposited in 5-7 working days. 
+All sales are final and no refund will be issued. You as a user will not be able to cancel the order once placed. The orders are only canellable by the CupidCues management, and will be done only for legitimate reasons.. If the management decides to cancel the order, then a full refund of the item will be initiated (Application fee are not refundable). Your refund will be deposited in 5-7 working days. 
 
 ### 8. PROHIBITED ACTIVITIES
 
